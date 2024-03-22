@@ -1,0 +1,21 @@
+Policy iteration
+
+Average steps with factor 0.5: 12.934999999999999
+Average reward with factor 0.5: 8.065000000000001
+
+Average steps with factor 0.7: 12.925
+Average reward with factor 0.7: 8.075
+
+Average steps with factor 0.9: 13.440000000000001
+Average reward with factor 0.9: 7.5600000000000005
+
+Value iteration
+
+Average steps with factor 0.5: 12.975000000000001
+Average reward with factor 0.5: 8.025
+
+Average steps with factor 0.7: 13.305
+Average reward with factor 0.7: 7.695
+
+Average steps with factor 0.9: 12.915
+Average reward with factor 0.9: 8.085
